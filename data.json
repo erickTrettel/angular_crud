@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": 100,
+      "nome": "Rafael Damasco",
+      "email": "rafael.damasco03@gmail.com"
+    },
+    {
+      "id": 200,
+      "nome": "Pedro Colméia",
+      "email": "pedroc5500@gmail.com"
+    },
+    {
+      "id": 300,
+      "nome": "Alexa Madeira",
+      "email": "aalexa_madeira@hotmail.com"
+    },
+    {
+      "id": 400,
+      "nome": "Henrique Carvalho",
+      "email": "carvalho.henrique97@hotmail.com"
+    }
+  ]
+}
